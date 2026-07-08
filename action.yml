@@ -1,0 +1,6 @@
+name: "Dad Jokes Action"
+description: "Posts a random Dad Joke on an issue."
+
+runs:
+  using: "node20"
+  main: "dist/index.js"
